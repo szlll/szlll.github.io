@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * **Peking University**  2020.9 -  
-M.S. in Data Science
-Advisor: Prof. [Xu Sun](http://xusun.org)
-* **University of California, Berkeley**  2019.1 - 2019.5 
-Visiting student in Statistics
-GPA: 4.0/4.0
-* **Xi'an Jiaotong University**  2016.9 -2020.7  
-B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
-GPA: 3.96/4.3, 92.13/100
+    * M.S. in Data Science  
+    * Advisor: Prof. [Xu Sun](http://xusun.org)  
+* **University of California, Berkeley**  2019.1 - 2019.5   
+    * Visiting student in Statistics  
+    * GPA: 4.0/4.0  
+* **Xi'an Jiaotong University**  2016.9 -2020.7   
+    * B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)   
+    * GPA: 3.96/4.3, 92.13/100  
 
 
 Work experience
