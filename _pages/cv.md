@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Research Intern of Wechat AI, Tencent Inc., Alibaba, 2021.1 - .
+* Research Intern of Wechat AI, Tencent Inc., 2021.1 - .
 * Research Assistant in National Engineering Laboratory for Big Data Analytics, XJTU, 2019.6 - 2020.7
  
 Selected Awards 
