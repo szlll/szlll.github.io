@@ -26,8 +26,7 @@ Internship:
 Publications
 ======
 * **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**  
-Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, Bin He
-
+Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, Bin He 
 ***NAACL-HLT 2021*** [[pdf](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
 
 
