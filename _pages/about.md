@@ -27,7 +27,7 @@ Publications
 ======
 * **Rethinking Stealthiness of Backdoor Attack against NLP Models**  
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun  
-***ACL 2021*** #[[pdf](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
+***ACL 2021*** 
 
 
 * **Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models**  
