@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wenkai Yang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wenkai Yang"
 description              : &description "personal description"
 url                      : https://keven980716.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenaki Yang"
+  name             : "Wenkai Yang"
   avatar           : "profile.jpg"
   bio              : "Master student at Peking University"
   location         : "Beijing, China"
