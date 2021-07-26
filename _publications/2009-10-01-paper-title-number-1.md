@@ -10,4 +10,4 @@ venue: 'NAACL-HLT'
 ---
 
 **Wenkai Yang**, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, Bin He  
-[[url](https://www.aclweb.org/anthology/2021.naacl-main.165), [arxiv](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
+[[url](https://aclanthology.org/2021.naacl-main.165), [arxiv](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
