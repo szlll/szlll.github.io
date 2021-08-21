@@ -10,14 +10,14 @@ redirect_from:
 
 Hi! I am a first-year master sutdent at the Center for Data Science of Peking University. I am a member of [LANCO](https://lancopku.github.io) group, and I am fortunate to be advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Recently I am working on adversarial learning and backdoor learning problems in NLP.
 
-Education:
+Education
 ======
 
 * Master student in Data Science (Statistics), Peking University, Sept. 2020 - Now. 
 * Visiting student in Statistics, University of California, Berkeley, Jan. 2019 - May 2019.
 * Bachelor in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm), Xi'an Jiaotong University, Sept. 2016 - July 2020.
 
-Internship:
+Internship
 ======
 
 * Research Intern of Wechat AI, Tencent Inc., Jan. 2021 - Now.
