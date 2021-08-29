@@ -10,4 +10,4 @@ venue: 'EMNLP'
 ---
 
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun  
-# [[url](https://aclanthology.org/2021.acl-long.431), [code](https://github.com/lancopku/SOS)] 
+
