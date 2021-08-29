@@ -25,8 +25,8 @@ Internship
 
 Publications
 ======
-* **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**
-**Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun  
+* **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
+**Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
 ***EMNLP 2021***
 
 
