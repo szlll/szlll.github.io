@@ -22,13 +22,15 @@ Education
     * GPA: 3.96/4.3, 92.13/100  
 
 
-Work experience
+Work Experience
 ======
 * Research Intern of Wechat AI, Tencent Inc., 2021.1 - .
 * Research Assistant in National Engineering Laboratory for Big Data Analytics, XJTU, 2019.6 - 2020.7
  
 Selected Awards 
 ======
+* National Scholarship of China, PKU, 2021
+* Pacemaker to Merit Student, PKU, 2021
 * Outstanding Graduate of XJTU, 2020
 * Honorary Graduate of Qian Xuesen College, XJTU, 2020
 * The Second Scholarship of XJTU, 2019
