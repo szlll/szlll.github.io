@@ -10,4 +10,5 @@ venue: 'EMNLP'
 ---
 
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun  
+[[code](https://github.com/lancopku/RAP)] 
 
