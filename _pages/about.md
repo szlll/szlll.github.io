@@ -47,7 +47,8 @@ Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun
 
 Awards
 ======
-* National Scholarship of China (The highest scholarship for graduates), 2020-2021
+* National Scholarship of China (The highest scholarship for graduate students), 2020-2021
+* Pacemaker to Merit Student (The highest honor for graduate students), 2020-2021
 
 
 Contact
