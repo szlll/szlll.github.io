@@ -42,8 +42,12 @@ Publications
 
 Preprints
 ======
-* **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**
-Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun
+* **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
+Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun  
+
+Awards
+======
+* National Scholarship of China (The highest scholarship for graduates), 2020-2021
 
 
 Contact
