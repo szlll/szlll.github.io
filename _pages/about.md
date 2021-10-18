@@ -27,7 +27,7 @@ Publications
 ======
 * **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
-***EMNLP 2021*** [[code](https://github.com/lancopku/RAP)]
+***EMNLP 2021*** [[arxiv](https://arxiv.org/pdf/2110.07831.pdf), [code](https://github.com/lancopku/RAP)]
 
 
 
