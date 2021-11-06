@@ -10,5 +10,5 @@ venue: 'EMNLP'
 ---
 
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun  
-[[arxiv](https://arxiv.org/pdf/2110.07831.pdf), [code](https://github.com/lancopku/RAP)] 
+[[url](https://aclanthology.org/2021.emnlp-main.659/), [arxiv](https://arxiv.org/pdf/2110.07831.pdf), [code](https://github.com/lancopku/RAP)] 
 
