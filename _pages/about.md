@@ -25,6 +25,10 @@ Internship
 
 Publications
 ======
+* **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
+Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun  
+***AAAI 2022*** [[arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
+
 * **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
 ***EMNLP 2021*** [[url](https://aclanthology.org/2021.emnlp-main.659/), [arxiv](https://arxiv.org/pdf/2110.07831.pdf), [code](https://github.com/lancopku/RAP)]
@@ -40,11 +44,10 @@ Publications
 **Wenkai Yang**, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, Bin He  
 ***NAACL-HLT 2021*** [[url](https://aclanthology.org/2021.naacl-main.165), [arxiv](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
 
+
 Preprints
 ======
-* **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
-Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun  
-[[arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
+Coming soon...
 
 Awards
 ======
