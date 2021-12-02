@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year master sutdent at the Center for Data Science of Peking University. I am a member of [LANCO](https://lancopku.github.io) group, and I am fortunate to be advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Recently I am working on adversarial learning and backdoor learning problems in NLP, and also federated machine learning problems (optimization & safety).
+Hi! I am a second-year master sutdent at the Center for Data Science of Peking University. I am a member of [LANCO](https://lancopku.github.io) group, and I am fortunate to be advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Recently I am working on adversarial learning and backdoor learning problems in NLP, and also federated machine learning problems (optimization & security).
 
 Education
 ======
