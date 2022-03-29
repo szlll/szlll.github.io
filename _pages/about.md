@@ -26,7 +26,7 @@ Internship
 Publications
 ======
 * **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
-Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Xu Sun  
+Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun  
 ***AAAI 2022*** [[arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
 
 * **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
