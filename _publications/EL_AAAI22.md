@@ -10,5 +10,5 @@ venue: 'AAAI'
 ---
 
 Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun  
-[[arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)] 
+[[url](https://ojs.aaai.org/index.php/AAAI/article/view/20904), [arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)] 
 
