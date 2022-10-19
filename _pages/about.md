@@ -26,7 +26,7 @@ Internship
 Publications
 ======
 * **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
-**Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
+Sishuo Chen, **Wenkai Yang**, Zhiyuan Zhang, Xiaohan Bi, Xu Sun   
 ***Findings of EMNLP 2022*** [[arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
 
 * **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
