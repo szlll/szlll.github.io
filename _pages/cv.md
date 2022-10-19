@@ -29,8 +29,10 @@ Work Experience
  
 Selected Awards 
 ======
-* National Scholarship of China, PKU, 2021
-* Pacemaker to Merit Student, PKU, 2021
+* Xingye Bank Scholarship, PKU, 2022
+* Merit Student, PKU, 2022
+* **National Scholarship of China**, PKU, 2021
+* **Pacemaker to Merit Student**, PKU, 2021
 * Outstanding Graduate of XJTU, 2020
 * Honorary Graduate of Qian Xuesen College, XJTU, 2020
 * The Second Scholarship of XJTU, 2019
