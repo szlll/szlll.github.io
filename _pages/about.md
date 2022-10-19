@@ -25,9 +25,13 @@ Internship
 
 Publications
 ======
+* **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
+**Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
+***Findings of EMNLP 2022*** [[arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
+
 * **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
 Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun  
-***AAAI 2022*** [[arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
+***AAAI 2022*** [[url](https://ojs.aaai.org/index.php/AAAI/article/view/20904), [arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
 
 * **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
@@ -53,7 +57,8 @@ Awards
 ======
 * **National Scholarship of China** (The highest scholarship for graduate students), 2020-2021
 * **Pacemaker to Merit Student** (The highest honor for graduate students), 2020-2021
-
+Xingye Bank Scholarship, 2021-2022
+Merit Student of PKU, 2021-2022
 
 Contact
 =====
