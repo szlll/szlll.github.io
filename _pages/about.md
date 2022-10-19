@@ -57,8 +57,8 @@ Awards
 ======
 * **National Scholarship of China** (The highest scholarship for graduate students), 2020-2021
 * **Pacemaker to Merit Student** (The highest honor for graduate students), 2020-2021
-Xingye Bank Scholarship, 2021-2022
-Merit Student of PKU, 2021-2022
+* Xingye Bank Scholarship, 2021-2022
+* Merit Student of PKU, 2021-2022
 
 Contact
 =====
