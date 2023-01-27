@@ -13,7 +13,7 @@ Hi! I am a third-year master sutdent at the Center for Data Science of Peking Un
 Education
 ======
 
-* Master student in Data Science (Statistics), Peking University, Sept. 2020 - Now. 
+* Master student in [Data Science (Statistics)](https://www.ds.pku.edu.cn), Peking University, Sept. 2020 - Now. 
 * Visiting student in Statistics, University of California, Berkeley, Jan. 2019 - May 2019.
 * Bachelor in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm), Xi'an Jiaotong University, Sept. 2016 - July 2020.
 
@@ -25,6 +25,10 @@ Internship
 
 Publications
 ======
+* **Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**   
+Sishuo Chen, **Wenkai Yang**, Xiaohan Bi, Xu Sun   
+***Findings of EACL 2023*** [coming soon]
+
 * **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
 Sishuo Chen, **Wenkai Yang**, Zhiyuan Zhang, Xiaohan Bi, Xu Sun   
 ***Findings of EMNLP 2022*** [[arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
@@ -51,7 +55,15 @@ Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun
 
 Preprints
 ======
-Coming soon...
+* **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
+**Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
+[[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
+
+
+* **When to Trust Aggregated Gradients: Addressing Negative Client Sampling in Federated Learning**   
+**Wenkai Yang**, Yankai Lin, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun   
+[[arxiv](https://arxiv.org/pdf/2301.10400.pdf)]
+
 
 Awards
 ======
