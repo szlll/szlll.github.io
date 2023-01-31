@@ -27,7 +27,7 @@ Publications
 ======
 * **Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**   
 Sishuo Chen, **Wenkai Yang**, Xiaohan Bi, Xu Sun   
-***Findings of EACL 2023*** [coming soon]
+***Findings of EACL 2023*** [[arxiv](https://arxiv.org/pdf/2301.12715.pdf), [code](https://github.com/lancopku/GNOME)]
 
 * **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
 Sishuo Chen, **Wenkai Yang**, Zhiyuan Zhang, Xiaohan Bi, Xu Sun   
