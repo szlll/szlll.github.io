@@ -25,13 +25,24 @@ Internship
 
 Publications
 ======
+
+* **When to Trust Aggregated Gradients: Addressing Negative Client Sampling in Federated Learning**   
+**Wenkai Yang**, Yankai Lin, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun   
+***Transactions on Machine Learning Research*** [[url](https://openreview.net/pdf?id=v73h3bYE2Z), [arxiv](https://arxiv.org/pdf/2301.10400.pdf), [code](https://github.com/lancopku/FedGLAD)]
+
+
+* **Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter**   
+Yi Liu, Xiaohan Bi, Lei Li, Sishuo Chen, **Wenkai Yang**, Xu Sun   
+***Findings of ACL 2023*** 
+
+
 * **Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**   
 Sishuo Chen, **Wenkai Yang**, Xiaohan Bi, Xu Sun   
-***Findings of EACL 2023*** [[arxiv](https://arxiv.org/pdf/2301.12715.pdf), [code](https://github.com/lancopku/GNOME)]
+***Findings of EACL 2023*** [[url](https://aclanthology.org/2023.findings-eacl.41/), [arxiv](https://arxiv.org/pdf/2301.12715.pdf), [code](https://github.com/lancopku/GNOME)]
 
 * **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
 Sishuo Chen, **Wenkai Yang**, Zhiyuan Zhang, Xiaohan Bi, Xu Sun   
-***Findings of EMNLP 2022*** [[arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
+***Findings of EMNLP 2022*** [[url](https://aclanthology.org/2022.findings-emnlp.47/), [arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
 
 * **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
 Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun  
@@ -60,9 +71,6 @@ Preprints
 [[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
 
 
-* **When to Trust Aggregated Gradients: Addressing Negative Client Sampling in Federated Learning**   
-**Wenkai Yang**, Yankai Lin, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun   
-[[arxiv](https://arxiv.org/pdf/2301.10400.pdf)]
 
 
 Awards
