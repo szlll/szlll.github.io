@@ -33,7 +33,7 @@ Publications
 
 * **Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter**   
 Yi Liu, Xiaohan Bi, Lei Li, Sishuo Chen, **Wenkai Yang**, Xu Sun   
-***Findings of ACL 2023*** 
+***Findings of ACL 2023*** [[arxiv](https://arxiv.org/pdf/2305.12449.pdf), [code](https://github.com/lancopku/FedMNMT)]
 
 
 * **Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**   
