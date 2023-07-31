@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third-year master sutdent at the Center for Data Science of Peking University. I am a member of [LANCO](https://lancopku.github.io) group, and I am fortunate to be advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Recently I am working on adversarial learning and backdoor learning problems in NLP, and also federated machine learning problems (optimization & security).
+Hi! I am a Ph.D student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on the robustness and security problems of large language models, and also federated machine learning problems (optimization & security).
 
 Education
 ======
 
-* Master student in [Data Science (Statistics)](https://www.ds.pku.edu.cn), Peking University, Sept. 2020 - Now. 
+* Ph.D student in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), Renmin University of China, Sept. 2023 - Now. 
+* Master student in [Data Science (Statistics)](https://www.ds.pku.edu.cn), Peking University, Sept. 2020 - July 2023. 
 * Visiting student in Statistics, University of California, Berkeley, Jan. 2019 - May 2019.
 * Bachelor in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm), Xi'an Jiaotong University, Sept. 2016 - July 2020.
 
@@ -21,6 +22,14 @@ Internship
 ======
 
 * Research Intern of Wechat AI, Tencent Inc., Jan. 2021 - Now.
+
+
+Preprints
+======
+* **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
+**Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
+[[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
+
 
 
 Publications
@@ -64,17 +73,13 @@ Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun
 ***NAACL-HLT 2021*** [[url](https://aclanthology.org/2021.naacl-main.165), [arxiv](https://arxiv.org/pdf/2103.15543.pdf), [code](https://github.com/lancopku/Embedding-Poisoning)] 
 
 
-Preprints
-======
-* **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
-**Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
-[[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
 
 
 
 
 Awards
 ======
+
 * **National Scholarship of China** (The highest scholarship for graduate students), 2020-2021
 * **Pacemaker to Merit Student** (The highest honor for graduate students), 2020-2021
 * Xingye Bank Scholarship, 2021-2022
