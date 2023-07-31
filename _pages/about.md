@@ -24,8 +24,10 @@ Internship
 * Research Intern of Wechat AI, Tencent Inc., Jan. 2021 - Now.
 
 
-Preprints
+Preprints 
 ======
+
+(# denotes Equal Contribution)
 * **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
 [[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
@@ -80,6 +82,8 @@ Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun
 Awards
 ======
 
+* **Excellent Graduate of Beijing Ordinary Colleges and Universities**, 2022-2023
+* Excellent Graduate of Peking University, 2022-2023
 * **National Scholarship of China** (The highest scholarship for graduate students), 2020-2021
 * **Pacemaker to Merit Student** (The highest honor for graduate students), 2020-2021
 * Xingye Bank Scholarship, 2021-2022
@@ -87,6 +91,6 @@ Awards
 
 Contact
 =====
-Email: wkyang (at) stu (dot) pku (dot) edu (dot) cn
+Email: kevenyang98 (at) gmail (dot) com
 
 
