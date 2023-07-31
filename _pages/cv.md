@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Peking University**  2020.9 -  
+* **Renmin University of China**  2023.9 -  
+    * Ph.D. in Artificial Intelligence  
+    * Advisor: Prof. [Yankai Lin](https://linyankai.github.io)  
+* **Peking University**  2020.9 - 2023.7 
     * M.S. in Data Science  
     * Advisor: Prof. [Xu Sun](http://xusun.org)  
 * **University of California, Berkeley**  2019.1 - 2019.5   
@@ -24,11 +27,13 @@ Education
 
 Work Experience
 ======
-* Research Intern of Wechat AI, Tencent Inc., 2021.1 - .
+* Research Internship of Wechat AI, Tencent Inc., 2021.1 - .
 * Research Assistant in National Engineering Laboratory for Big Data Analytics, XJTU, 2019.6 - 2020.7
  
 Selected Awards 
 ======
+* **Excellent Graduate of Beijing Ordinary Colleges and Universities**, PKU, 2023
+* Excellent Graduate of Peking University, PKU, 2023
 * Xingye Bank Scholarship, PKU, 2022
 * Merit Student, PKU, 2022
 * **National Scholarship of China**, PKU, 2021
