@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on the robustness and security problems of large language models, and also federated machine learning problems (optimization & security).
+Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on the robustness and security problems of large language models, and also federated machine learning problems (optimization & security).
 
 Education
 ======
 
-* Ph.D student in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), Renmin University of China, Sept. 2023 - Now. 
+* Ph.D. student in [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), Renmin University of China, Sept. 2023 - Now. 
 * Master student in [Data Science (Statistics)](https://www.ds.pku.edu.cn), Peking University, Sept. 2020 - July 2023. 
 * Visiting student in Statistics, University of California, Berkeley, Jan. 2019 - May 2019.
 * Bachelor in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm), Xi'an Jiaotong University, Sept. 2016 - July 2020.
