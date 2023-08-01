@@ -30,7 +30,7 @@ Preprints
 (# denotes Equal Contribution)
 
 * **Towards Codable Text Watermarking for Large Language Models**   
-Lean Wang#,**Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
+Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
 [[arxiv](https://arxiv.org/pdf/2307.15992.pdf)]
 
 
