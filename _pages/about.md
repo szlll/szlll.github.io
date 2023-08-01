@@ -28,6 +28,12 @@ Preprints
 ======
 
 (# denotes Equal Contribution)
+
+* **Towards Codable Text Watermarking for Large Language Models**   
+Lean Wang#,**Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
+[[arxiv](https://arxiv.org/pdf/2307.15992.pdf)]
+
+
 * **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
 [[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
