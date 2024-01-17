@@ -29,10 +29,9 @@ Preprints
 
 (# denotes Equal Contribution)
 
-* **Towards Codable Text Watermarking for Large Language Models**   
-Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
-[[arxiv](https://arxiv.org/pdf/2307.15992.pdf)]
-
+* **Enabling Large Language Models to Learn from Rules**   
+**Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
+[[arxiv](https://arxiv.org/pdf/2311.08883.pdf)]
 
 * **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
@@ -42,6 +41,14 @@ Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Ji
 
 Publications
 ======
+
+(# denotes Equal Contribution)
+
+* **Towards Codable Text Watermarking for Large Language Models**   
+Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
+***ICLR 2024*** [[url](https://openreview.net/forum?id=JYu5Flqm9D), [arxiv](https://arxiv.org/pdf/2307.15992.pdf), [code](https://github.com/lancopku/codable-watermarking-for-llm)]
+
+
 
 * **When to Trust Aggregated Gradients: Addressing Negative Client Sampling in Federated Learning**   
 **Wenkai Yang**, Yankai Lin, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun   
