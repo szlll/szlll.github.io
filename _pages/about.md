@@ -29,6 +29,12 @@ Preprints
 
 (# denotes Equal Contribution)
 
+
+* **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
+**Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
+[[arxiv](https://arxiv.org/pdf/2402.11208.pdf), [code](https://github.com/lancopku/agent-backdoor-attacks)]
+
+
 * **Enabling Large Language Models to Learn from Rules**   
 **Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
 [[arxiv](https://arxiv.org/pdf/2311.08883.pdf)]
