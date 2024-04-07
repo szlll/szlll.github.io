@@ -29,6 +29,9 @@ Preprints
 
 (# denotes Equal Contribution)
 
+* **Exploring Backdoor Vulnerabilities of Chat Models**   
+Yunzhuo Hao#, **Wenkai Yang**#, Yankai Lin   
+[[arxiv](https://arxiv.org/pdf/2404.02406.pdf), [code](https://github.com/hychaochao/Chat-Models-Backdoor-Attacking)]
 
 * **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
 **Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
@@ -45,8 +48,9 @@ Preprints
 
 
 
-Publications
+Selected Publications
 ======
+[Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
 
@@ -60,23 +64,6 @@ Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Ji
 **Wenkai Yang**, Yankai Lin, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun   
 ***Transactions on Machine Learning Research*** [[url](https://openreview.net/pdf?id=v73h3bYE2Z), [arxiv](https://arxiv.org/pdf/2301.10400.pdf), [code](https://github.com/lancopku/FedGLAD)]
 
-
-* **Communication Efficient Federated Learning for Multilingual Machine Translation with Adapter**   
-Yi Liu, Xiaohan Bi, Lei Li, Sishuo Chen, **Wenkai Yang**, Xu Sun   
-***Findings of ACL 2023*** [[arxiv](https://arxiv.org/pdf/2305.12449.pdf), [code](https://github.com/lancopku/FedMNMT)]
-
-
-* **Fine-Tuning Deteriorates General Textual Out-of-Distribution Detection by Distorting Task-Agnostic Features**   
-Sishuo Chen, **Wenkai Yang**, Xiaohan Bi, Xu Sun   
-***Findings of EACL 2023*** [[url](https://aclanthology.org/2023.findings-eacl.41/), [arxiv](https://arxiv.org/pdf/2301.12715.pdf), [code](https://github.com/lancopku/GNOME)]
-
-* **Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks**   
-Sishuo Chen, **Wenkai Yang**, Zhiyuan Zhang, Xiaohan Bi, Xu Sun   
-***Findings of EMNLP 2022*** [[url](https://aclanthology.org/2022.findings-emnlp.47/), [arxiv](https://arxiv.org/pdf/2210.07907.pdf), [code](https://github.com/lancopku/DAN)]
-
-* **Well-classified Examples are Underestimated in Classification with Deep Neural Networks**  
-Guangxiang Zhao, **Wenkai Yang**, Xuancheng Ren, Lei Li, Yunfang Wu, Xu Sun  
-***AAAI 2022*** [[url](https://ojs.aaai.org/index.php/AAAI/article/view/20904), [arxiv](https://arxiv.org/pdf/2110.06537.pdf), [code](https://github.com/lancopku/well-classified-examples-are-underestimated)]  
 
 * **RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models**   
 **Wenkai Yang**, Yankai Lin, Peng Li, Jie Zhou, Xu Sun   
