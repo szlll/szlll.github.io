@@ -42,9 +42,6 @@ Yunzhuo Hao#, **Wenkai Yang**#, Yankai Lin
 **Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
 [[arxiv](https://arxiv.org/pdf/2311.08883.pdf)]
 
-* **Integrating Local Real Data with Global Gradient Prototypes for Classifier Re-Balancing in Federated Long-Tailed Learning**   
-**Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
-[[arxiv](https://arxiv.org/pdf/2301.10394.pdf)]
 
 
 
@@ -53,6 +50,11 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Decentralized Decoupled Training for Federated Long-Tailed Learning**   
+**Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
+***Transactions on Machine Learning Research*** [[arxiv](https://arxiv.org/pdf/2301.10394.pdf), [code](https://github.com/lancopku/FedGLAD)]
+
 
 * **Towards Codable Text Watermarking for Large Language Models**   
 Lean Wang#, **Wenkai Yang**#, Deli Chen#, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun   
