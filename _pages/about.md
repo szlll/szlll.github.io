@@ -53,7 +53,7 @@ Selected Publications
 
 * **Decentralized Decoupled Training for Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
-***Transactions on Machine Learning Research*** [[arxiv](https://arxiv.org/pdf/2301.10394.pdf), [code](https://github.com/lancopku/FedGLAD)]
+***Transactions on Machine Learning Research*** [[url](https://openreview.net/forum?id=hw7inQwRxB), [arxiv](https://arxiv.org/pdf/2301.10394.pdf), [code]( https://github.com/keven980716/Federated_Learning_Experiments)]
 
 
 * **Towards Codable Text Watermarking for Large Language Models**   
