@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on the robustness and security problems of large language models, and also federated machine learning problems (optimization & security).
+Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on the alignment and security problems of Large Language Models.
 
 Education
 ======
@@ -28,6 +28,11 @@ Preprints
 ======
 
 (# denotes Equal Contribution)
+
+* **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
+**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Zhi Gong, Yankai Lin   
+[[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
+
 
 * **Exploring Backdoor Vulnerabilities of Chat Models**   
 Yunzhuo Hao#, **Wenkai Yang**#, Yankai Lin   
