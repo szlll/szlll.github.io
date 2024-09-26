@@ -38,9 +38,6 @@ Preprints
 Yunzhuo Hao#, **Wenkai Yang**#, Yankai Lin   
 [[arxiv](https://arxiv.org/pdf/2404.02406.pdf), [code](https://github.com/hychaochao/Chat-Models-Backdoor-Attacking)]
 
-* **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
-**Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
-[[arxiv](https://arxiv.org/pdf/2402.11208.pdf), [code](https://github.com/lancopku/agent-backdoor-attacks)]
 
 
 * **Enabling Large Language Models to Learn from Rules**   
@@ -55,6 +52,10 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
+**Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
+***NeurIPS 2024*** [[arxiv](https://arxiv.org/pdf/2402.11208.pdf), [code](https://github.com/lancopku/agent-backdoor-attacks)]
 
 * **Decentralized Decoupled Training for Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
