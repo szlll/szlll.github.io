@@ -30,7 +30,7 @@ Preprints
 (# denotes Equal Contribution)
 
 * **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
-**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Zhi Gong, Yankai Lin   
+**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin   
 [[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
 
 
