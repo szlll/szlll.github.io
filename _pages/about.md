@@ -31,7 +31,7 @@ Preprints
 (# denotes Equal Contribution)
 
 * **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
-**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin   
+**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin, Ji-Rong Wen   
 [[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
 
 
@@ -44,8 +44,8 @@ Selected Publications
 
 (# denotes Equal Contribution)
 
-* **Enabling Large Language Models to Learn from Rules**   
-**Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
+* **Distilling Rule-based Knowledge into Large Language Models**   
+**Wenkai Yang**, Yankai Lin, Jie Zhou, Ji-Rong Wen   
 ***COLING 2025*** [[arxiv](https://arxiv.org/pdf/2311.08883.pdf), [code](https://github.com/keven980716/rule-distillation)]
 
 * **Exploring Backdoor Vulnerabilities of Chat Models**   
