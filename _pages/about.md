@@ -20,8 +20,9 @@ Education
 
 Internship
 ======
+* Research Intern in Microsoft Research, Asia, Sept. 2024 - Now.
 
-* Research Intern of Wechat AI, Tencent Inc., Jan. 2021 - Now.
+* Research Intern in Wechat AI, Tencent Inc., Jan. 2021 - Aug. 2024.
 
 
 Preprints 
