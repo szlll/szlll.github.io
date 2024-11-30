@@ -34,16 +34,6 @@ Preprints
 [[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
 
 
-* **Exploring Backdoor Vulnerabilities of Chat Models**   
-Yunzhuo Hao#, **Wenkai Yang**#, Yankai Lin   
-[[arxiv](https://arxiv.org/pdf/2404.02406.pdf), [code](https://github.com/hychaochao/Chat-Models-Backdoor-Attacking)]
-
-
-
-* **Enabling Large Language Models to Learn from Rules**   
-**Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
-[[arxiv](https://arxiv.org/pdf/2311.08883.pdf)]
-
 
 
 
@@ -52,6 +42,14 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Enabling Large Language Models to Learn from Rules**   
+**Wenkai Yang**, Yankai Lin, Jie Zhou, Jirong Wen   
+***COLING 2025*** [[arxiv](https://arxiv.org/pdf/2311.08883.pdf)]
+
+* **Exploring Backdoor Vulnerabilities of Chat Models**   
+ **Wenkai Yang**#, Yunzhuo Hao#, Yankai Lin   
+***COLING 2025*** [[arxiv](https://arxiv.org/pdf/2404.02406.pdf), [code](https://github.com/hychaochao/Chat-Models-Backdoor-Attacking)]
 
 * **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
 **Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
