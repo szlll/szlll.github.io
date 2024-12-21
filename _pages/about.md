@@ -46,7 +46,7 @@ Selected Publications
 
 * **Distilling Rule-based Knowledge into Large Language Models**   
 **Wenkai Yang**, Yankai Lin, Jie Zhou, Ji-Rong Wen   
-***COLING 2025*** [[arxiv](https://arxiv.org/pdf/2311.08883.pdf), [code](https://github.com/keven980716/rule-distillation)]
+***COLING 2025*** [[arxiv](https://arxiv.org/pdf/2311.08883.pdf), [code](https://github.com/RUCBM/rule-distillation)]
 
 * **Exploring Backdoor Vulnerabilities of Chat Models**   
  **Wenkai Yang**#, Yunzhuo Hao#, Yankai Lin   
@@ -54,7 +54,7 @@ Selected Publications
 
 * **Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents**   
 **Wenkai Yang**#, Xiaohan Bi#, Yankai Lin, Sishuo Chen, Jie Zhou, Xu Sun   
-***NeurIPS 2024*** [[arxiv](https://arxiv.org/pdf/2402.11208.pdf), [code](https://github.com/lancopku/agent-backdoor-attacks)]
+***NeurIPS 2024*** [[url](https://neurips.cc/virtual/2024/poster/95425), [arxiv](https://arxiv.org/pdf/2402.11208.pdf), [code](https://github.com/lancopku/agent-backdoor-attacks)]
 
 * **Decentralized Decoupled Training for Federated Long-Tailed Learning**   
 **Wenkai Yang**, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun   
