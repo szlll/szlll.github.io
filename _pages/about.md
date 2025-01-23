@@ -30,10 +30,6 @@ Preprints
 
 (# denotes Equal Contribution)
 
-* **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
-**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin, Ji-Rong Wen   
-[[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
-
 
 
 
@@ -43,6 +39,10 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
+**Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin, Ji-Rong Wen   
+***ICLR 2025*** [[arxiv](https://arxiv.org/pdf/2406.11431), [code](https://github.com/keven980716/weak-to-strong-deception)]
 
 * **Distilling Rule-based Knowledge into Large Language Models**   
 **Wenkai Yang**, Yankai Lin, Jie Zhou, Ji-Rong Wen   
