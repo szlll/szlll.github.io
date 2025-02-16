@@ -29,7 +29,11 @@ Selected Publications
 
 * **Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**   
 Zelong Sun, **Dong Jing**, Guoxing Yang, Nanyi Fei, Zhiwu Lu   
-***AAAI 2025*** [[arxiv](https://arxiv.org/pdf/2412.11087.pdf)
+***AAAI 2025*** [[arxiv](https://arxiv.org/pdf/2412.11087.pdf)]
+
+* **Light Field Raindrop Removal via 4D Re-sampling**   
+**Dong Jing**, Shuo Zhang, Song Chang, Youfang Lin   
+***ArXiv 2022 (Just Preprint, Not Accepted)*** [[arxiv](https://arxiv.org/pdf/2205.13165)]
 
 * **Occlusion-aware bi-directional guided network for light field salient object detection**  
 **Dong Jing**, Shuo Zhang, Runmin Cong, Youfang Lin  
