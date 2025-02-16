@@ -43,6 +43,6 @@ Awards
 
 Contact
 =====
-Email: jingdong98 (at) ruc (dot) edu (dot) cn
+Email: jingdong98@ruc.edu.cn
 
 
