@@ -29,7 +29,7 @@ Zelong Sun#, **Dong Jing**#, Zhiwu Lu
 
 * **Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation**
 Weiliang Tang#, **Dong Jing**#, Jia-Hui Pan, Zhiwu Lu, Yun-Hui Liu, Li Erran Li, Mingyu Ding, Chi-Wing Fu
-**Under Review**** [[paper](https://arxiv.org/pdf/2505.12744)]
+***Preprint, Under Review*** [[paper](https://arxiv.org/pdf/2505.12744)]
 
 * **FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding**   
 **Dong Jing**#, Xiaolong He#, Yutian Luo, Nanyi Fei, Guoxing Yang, Wei Wei, Huiwen Zhao, Zhiwu Lu   
