@@ -25,11 +25,11 @@ Selected Publications
 
 * **Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation**   
 Weiliang Tang#, **Dong Jing**#, Jia-Hui Pan, Zhiwu Lu, Yun-Hui Liu, Li Erran Li, Mingyu Ding, Chi-Wing Fu   
-***Preprint, Under Review*** [[paper](https://arxiv.org/pdf/2505.12744)]
+***🔥Preprint, Under Review🔥*** [[paper](https://arxiv.org/pdf/2505.12744)]
 
 * **CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**   
 Zelong Sun#, **Dong Jing**#, Zhiwu Lu   
-***ICCV 2025*** [[paper](https://arxiv.org/pdf/2502.20826)]
+***🔥ICCV 2025🔥*** [[paper](https://arxiv.org/pdf/2502.20826)]
 
 * **FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding**   
 **Dong Jing**#, Xiaolong He#, Yutian Luo, Nanyi Fei, Guoxing Yang, Wei Wei, Huiwen Zhao, Zhiwu Lu   
