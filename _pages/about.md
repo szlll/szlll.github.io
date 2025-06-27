@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Zhiwu Lu](https://gsai.ruc.edu.cn/luzhiwu). Before that, I got my Master's degree at the Beijing Jiaotong University. I was a member of [INSIS](http://insis.bjtu.edu.cn/) group, where I was advised by Assoc. Prof. [Shuo Zhang](https://faculty.bjtu.edu.cn/9278/). I am interested in Large Multi-modal Model (LMM) and Embodied AI. Specifically, I am working on building robust Vision-Language-Action model for robot manipulation.
+Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Zhiwu Lu](https://gsai.ruc.edu.cn/luzhiwu). Before that, I got my Master's degree at the Beijing Jiaotong University. I was a member of [INSIS](http://insis.bjtu.edu.cn/) group, where I was advised by Assoc. Prof. [Shuo Zhang](https://faculty.bjtu.edu.cn/9278/). I am interested in Large Multi-modal Model and Embodied AI. Specifically, I am now working on building robust Vision-Language-Action model for robot manipulation.
 
 Education
 ======
