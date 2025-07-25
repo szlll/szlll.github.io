@@ -38,10 +38,6 @@ Selected Publications
 Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu   
 ***ICMR 2023*** [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475312)]
 
-* **Shot Retrieval and Assembly with Text Script for Video Montage Generation**  
-Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu   
-***ICMR 2023*** [[paper](https://dl.acm.org/doi/10.1145/3591106.3592247)]
-
 * **Song-to-Video Translation: Writing a Video from Song Lyrics Based on Multimodal Pre-training**  
 Feifei Fu, **Zelong Sun**, Guoxing Yang, Zhiwu Lu   
 ***ADMA 2023*** [[paper](https://dl.acm.org/doi/10.1007/978-3-031-46664-9_14)]
