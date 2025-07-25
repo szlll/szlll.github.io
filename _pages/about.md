@@ -50,6 +50,13 @@ Feifei Fu, **Zelong Sun**, Guoxing Yang, Zhiwu Lu
 **Zelong Sun**, Guoxing Yang, Jingyuan Wen, Nanyi Fei, Zhiwu Lu, Jirong Wen   
 ***International Journal of Software & Informatics 13 (2)*** [[paper](https://www.sciengine.com/Jsoft/doi/10.13328/j.cnki.jos.006769)]
 
+Internship
+======
+
+* MetaBrain AGI Lab, Shanghai,   May 2023 - Feb. 2025.
+* Huawei (Possion Lab), Beijing,   June 2022 - Oct. 2022.
+* Beijing Academy of Artificial Intelligence, Beijing,   Sept. 2021 – May 2022.
+
 Contact
 =====
 Email: zelongsun@ruc.edu.cn
