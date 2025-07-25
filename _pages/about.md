@@ -35,19 +35,19 @@ Selected Publications
 ***ICASSP 2024*** [[paper](https://ieeexplore.ieee.org/document/10446291)]
 
 * **Shot Retrieval and Assembly with Text Script for Video Montage Generation**  
-Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu
+Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu   
 ***ICMR 2023*** [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475312)]
 
 * **Shot Retrieval and Assembly with Text Script for Video Montage Generation**  
-Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu
+Guoxing Yang, Haoyu Lu, **Zelong Sun**, Zhiwu Lu   
 ***ICMR 2023*** [[paper](https://dl.acm.org/doi/10.1145/3591106.3592247)]
 
 * **Song-to-Video Translation: Writing a Video from Song Lyrics Based on Multimodal Pre-training**  
-Feifei Fu, **Zelong Sun**, Guoxing Yang, Zhiwu Lu
+Feifei Fu, **Zelong Sun**, Guoxing Yang, Zhiwu Lu   
 ***ADMA 2023*** [[paper](https://dl.acm.org/doi/10.1007/978-3-031-46664-9_14)]
 
 * **Text-to-Chinese-painting method based on multi-domain VQGAN**  
-**Zelong Sun**, Guoxing Yang, Jingyuan Wen, Nanyi Fei, Zhiwu Lu, and Jirong Wen
+**Zelong Sun**, Guoxing Yang, Jingyuan Wen, Nanyi Fei, Zhiwu Lu, Jirong Wen   
 ***International Journal of Software & Informatics 13 (2)*** [[paper](https://www.sciengine.com/Jsoft/doi/10.13328/j.cnki.jos.006769)]
 
 Contact
