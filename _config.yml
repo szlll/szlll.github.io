@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dong Jing's Homepage"
+title                    : "Zelong Sun's Homepage"
 title_separator          : "-"
-name                     : &name "Dong Jing"
+name                     : &name "Zelong Sun"
 description              : &description "personal description"
-url                      : https://timsty1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zelongsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Timsty1/Timsty1.github.io"
+repository               : "zelongsun/Timsty1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong Jing"
+  name             : "Zelong Sun"
   avatar           : "profile.jpeg"
   bio              : "Ph.D. student at Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eDA8Ol8AAAAJ&hl=en"
-  email            : "jingdong98@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=mDxuGMgAAAAJ"
+  email            : "zelongsun@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Timsty1"
+  github           : "szlll"
   google_plus      :
   keybase          :
   instagram        :
