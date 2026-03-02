@@ -28,7 +28,7 @@ Selected Publications
 
 * **DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**   
 Hengyu Shen, Tiancheng Gu, Bin Qin, Lan Wu, Yuling Wu, Shuo Tan, **Zelong Sun**, Jun Wang, Nan Wu, Xiang An, Weidong Cai, Ziyong Feng, Kaicheng Yang 
-***Proceeding ICML 2026*** [[paper](https://arxiv.org/abs/2601.10305)]
+***Submitted to ICML 2026*** [[paper](https://arxiv.org/abs/2601.10305)]
 
 * **CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**   
 **Zelong Sun**#, Dong Jing#, Zhiwu Lu   
