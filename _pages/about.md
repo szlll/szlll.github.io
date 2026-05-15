@@ -22,13 +22,21 @@ Selected Publications
 
 (# denotes Equal Contribution)
 
+* **PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward**   
+Jiahui Wu#, **Zelong Sun#**, Yanbiao Ma, Zhiwu Lu   
+***🔥ICML 2026🔥*** 
+
 * **Say Cheese! Detail-Preserving Portrait Collection Generation via Natural Language Edits**   
 **Zelong Sun**, Jiahui Wu, Ying Ba, Dong Jing, Zhiwu Lu   
 ***🔥CVPR 2026🔥*** [[paper](https://arxiv.org/abs/2601.20511)]
 
+* **UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards**   
+Jun Wang#, Shuo Tan#, **Zelong Sun#**, Tiancheng Gu, Yongle Zhao, Ziyong Feng Kaicheng Yang, Zhiwu Lu
+***Arxiv*** [[paper](https://arxiv.org/abs/2601.10305)]
+
 * **DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**   
 Hengyu Shen, Tiancheng Gu, Bin Qin, Lan Wu, Yuling Wu, Shuo Tan, **Zelong Sun**, Jun Wang, Nan Wu, Xiang An, Weidong Cai, Ziyong Feng, Kaicheng Yang                                                  
-***Submitted to ICML 2026*** [[paper](https://arxiv.org/abs/2601.10305)]
+***Arxiv*** [[paper](https://arxiv.org/abs/2604.14967)]
 
 * **CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**   
 **Zelong Sun**#, Dong Jing#, Zhiwu Lu   
