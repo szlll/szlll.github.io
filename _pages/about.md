@@ -64,7 +64,7 @@ Feifei Fu, **Zelong Sun**, Guoxing Yang, Zhiwu Lu
 
 Internship
 ======
-
+* DeepGlint, Beijing,  May 2023 - Now.
 * MetaBrain AGI Lab, Shanghai,   May 2023 - Feb. 2025.
 * Huawei (Possion Lab), Beijing,   June 2022 - Oct. 2022.
 * Beijing Academy of Artificial Intelligence, Beijing,   Sept. 2021 – May 2022.
